@@ -2,4 +2,4 @@
 
 This is test
 
-[pppp pppp](docs/index.md)
+[pppp pppp](docs/index.html)
